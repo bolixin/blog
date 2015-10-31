@@ -8,7 +8,7 @@ ImportTool实现从数据库导入至HDFS、Hive、HBase；同时查询功能也
 
 ## ImportTool继承关系 ##
 
-![sqoop_packages](picture\ImportTool.png)
+![sqoop_packages](picture/ImportTool.png)
 
 `org.apache.sqoop.tool.ImportTool#run`：
 
@@ -94,7 +94,7 @@ TODO
 
 #### 继承关系 ####
 
-![sqoop_packages](picture\DataDirvenImportJob.png)
+![sqoop_packages](picture/DataDirvenImportJob.png)
 
 #### 源代码 ####
 `org.apache.sqoop.manager.SqlManager#importTable`
